@@ -1,0 +1,65 @@
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 130%;
+    object-fit: contain;
+  }
+  .mySwiper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    background-color: gray; /* Set background color to gray */
+    color: black; /* Set text/icon color to black */
+    border-radius: 50%; /* Makes the buttons circular */
+    width: 30px; /* Set width of the buttons */
+    height: 30px; /* Set height of the buttons */
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center the icon horizontally */
+    align-items: center; /* Center the icon vertically */
+    font-size: 12px;
+  }
+  
+  /* Optional: Change navigation button color on hover */
+  /* Scaling the icon */
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 20px; /* Scale down the icon size */
+  transform: scale(0.8); /* Alternatively, use transform to scale */
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+    background-color: rgb(238, 236, 236);
+}
+  
+@media (max-width: 768px) {
+  .swiper-button-next,
+  .swiper-button-prev {
+      width: 20px; /* Smaller buttons on smaller screens */
+      height: 20px;
+  }
+  .swiper-button-next::after,
+  .swiper-button-prev::after {
+      font-size: 16px; /* Adjust icon size */
+  }
+}

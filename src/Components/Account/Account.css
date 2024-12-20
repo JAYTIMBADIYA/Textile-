@@ -1,0 +1,36 @@
+.in1{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid rgb(211, 211, 211);
+    margin-bottom: 4px; 
+}
+
+.account-slide-in {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100vh;
+    background-color: white;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in-out;
+    z-index: 1000;
+  }
+  
+  .account-slide-in.show {
+    transform: translateX(0);
+  }
+  
+  .account-content {
+    padding: 2rem;
+  }
+  
+  /* Adjust the width on smaller screens */
+  @media (max-width: 768px) {
+    .account-slide-in {
+      width: 100%;
+    }
+  }
+  

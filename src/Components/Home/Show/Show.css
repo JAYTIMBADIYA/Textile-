@@ -1,0 +1,37 @@
+/* Show.css */
+@keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .scroll-container {
+    display: flex;
+    animation: scroll 20s linear infinite;
+  }
+  
+  .image-wrapper {
+    flex-shrink: 0; /* Prevent the images from shrinking */
+    width: 200px; /* Tailwind's w-36 is 144px */
+    height: 250px; /* Tailwind's h-40 is 160px */
+    margin-right: 2rem; /* Tailwind's mr-4 is 1rem */
+    object-fit: cover; /* Tailwind's object-cover */
+}
+
+@media (max-width: 768px) { /* Tablet and below */
+  .image-wrapper {
+      width: 150px; /* Adjust width */
+      height: 200px; /* Adjust height */
+  }
+}
+
+@media (max-width: 480px) { /* Mobile devices */
+  .image-wrapper {
+      width: 100px; /* Adjust width */
+      height: 150px; /* Adjust height */
+  }
+}
+  

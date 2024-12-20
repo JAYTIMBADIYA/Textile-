@@ -1,0 +1,909 @@
+[
+  {
+    "id": 1,
+    "name": "SOFT LICHI SILK CLOTH",
+    "color": "Yellow",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/hGDNvZXS/IMG-20241031-WA0032.jpg",
+      "https://i.postimg.cc/zXwdhSZ3/IMG-20241031-WA0031.jpg",
+      "https://i.postimg.cc/g2SHygMc/IMG-20241031-WA0034.jpg",
+      "https://i.postimg.cc/xCKmZ5Pz/IMG-20241031-WA0030.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "SOFT LICHI SILK CLOTH",
+    "color": "Violet Black",
+    "price": 349,
+    "img": [
+      "https://i.postimg.cc/PxrhGrWQ/IMG-20241031-WA0037.jpg",
+      "https://i.postimg.cc/SQYQmj0g/IMG-20241031-WA0035.jpg",
+      "https://i.postimg.cc/TwrkcrLk/IMG-20241031-WA0039.jpg",
+      "https://i.postimg.cc/DZK6m8j1/IMG-20241031-WA0033.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "LILAN SLAB ATTRACTIVE CHARMFULL",
+    "color": "Black",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/0yRbTDbG/IMG-20241031-WA0036.jpg",
+      "https://i.postimg.cc/7Z9JSbZg/IMG-20241031-WA0038.jpg",
+      "https://i.postimg.cc/6qxpkNQW/IMG-20241031-WA0042.jpg",
+      "https://i.postimg.cc/ZKTTpHBM/IMG-20241031-WA0040.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "LILAN SLAB ATTRACTIVE CHARMFULL",
+    "color": "Black",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/W4VS1dfg/IMG-20241031-WA0044.jpg",
+      "https://i.postimg.cc/xTbPGvwL/IMG-20241031-WA0041.jpg",
+      "https://i.postimg.cc/855R7MdJ/IMG-20241031-WA0054.jpg",
+      "https://i.postimg.cc/jdNFqYSV/IMG-20241031-WA0043.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "RICH PALLU & JACQUARD",
+    "color": "Rama",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/VkhrKpX6/IMG-20241031-WA0052.jpg",
+      "https://i.postimg.cc/ydyNCb30/IMG-20241031-WA0045.jpg",
+      "https://i.postimg.cc/sDZtBZKN/IMG-20241031-WA0046.jpg",
+      "https://i.postimg.cc/9MRvGRC0/IMG-20241031-WA0047.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Soft banarasi Silk Saree",
+    "color": "Firoji",
+    "price": 599,
+    "img": [
+      "https://i.postimg.cc/K8C71RqJ/IMG-20241031-WA0049.jpg",
+      "https://i.postimg.cc/xThNRBvd/IMG-20241031-WA0051.jpg",
+      "https://i.postimg.cc/8cn4ww4V/IMG-20241031-WA0050.jpg",
+      "https://i.postimg.cc/9Qq2dnbC/IMG-20241031-WA0048.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Soft banarasi Silk Saree",
+    "color": "Sky",
+    "price": 549,
+    "img": [
+      "https://i.postimg.cc/s2N0TjgL/IMG-20241031-WA0055.jpg",
+      "https://i.postimg.cc/6pSdSyCC/IMG-20241031-WA0053.jpg",
+      "https://i.postimg.cc/XqHZCz89/IMG-20241031-WA0056.jpg",
+      "https://i.postimg.cc/J0fLv379/IMG-20241031-WA0065.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "RICH PALLU & JACQUARD",
+    "color": "Red",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/gcDt7HjR/IMG-20241031-WA0060.jpg",
+      "https://i.postimg.cc/NMb8dbDj/IMG-20241031-WA0059.jpg",
+      "https://i.postimg.cc/tTgn4bd9/IMG-20241031-WA0058.jpg",
+      "https://i.postimg.cc/wv33dVHv/IMG-20241031-WA0061.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "RICH PALLU & JACQUARD",
+    "color": "Green",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/vmFJW73K/Whats-App-Image-2024-10-30-at-20-26-04-06417b36.jpg",
+      "https://i.postimg.cc/T14ShnKC/Whats-App-Image-2024-10-30-at-20-26-05-c4be7851.jpg",
+      "https://i.postimg.cc/8ztyChxW/Whats-App-Image-2024-10-30-at-20-26-05-296e102c.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "RICH PALLU & JACQUARD",
+    "color": "Cream",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/zvhzzDBb/IMG-20241031-WA0067.jpg",
+      "https://i.postimg.cc/8PkXgK0D/IMG-20241031-WA0064.jpg",
+      "https://i.postimg.cc/RF9QQqr9/IMG-20241031-WA0068.jpg",
+      "https://i.postimg.cc/7Yv7gfSR/IMG-20241031-WA0072.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "RICH PALLU & JACQUARD",
+    "color": "Cream",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/0Q0gc6bC/IMG-20241031-WA0073.jpg",
+      "https://i.postimg.cc/FzH6pTt9/IMG-20241031-WA0069.jpg",
+      "https://i.postimg.cc/Z5dMw9Qy/IMG-20241031-WA0070.jpg",
+      "https://i.postimg.cc/W1Lnb59h/IMG-20241031-WA0071.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "RICH PALLU & JACQUARD",
+    "color": "Cream",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/4NqJK9tK/IMG-20241031-WA0076.jpg",
+      "https://i.postimg.cc/xj7rgSdh/IMG-20241031-WA0074.jpg",
+      "https://i.postimg.cc/kMVM7sRr/IMG-20241031-WA0075.jpg",
+      "https://i.postimg.cc/63JcTY6H/IMG-20241031-WA0078.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "RICH WEAVING RICH BLOUSE",
+    "color": "Cream",
+    "price": 549,
+    "img": [
+      "https://i.postimg.cc/HLVWj9v7/Whats-App-Image-2024-10-30-at-20-26-12-0624881f.jpg",
+      "https://i.postimg.cc/HLyGfZP3/Whats-App-Image-2024-10-30-at-20-26-11-604c1166.jpg",
+      "https://i.postimg.cc/HL5KSJVh/Whats-App-Image-2024-10-30-at-20-26-11-d0b9efa0.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": " CONTRAST HEVY BROCADE BLOUSE",
+    "color": "Cream",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/zBDTMMxR/IMG-20241031-WA0084.jpg",
+      "https://i.postimg.cc/wvSDwkbC/IMG-20241031-WA0083.jpg",
+      "https://i.postimg.cc/yxbtQ2zV/IMG-20241031-WA0082.jpg",
+      "https://i.postimg.cc/rm6SJJHv/IMG-20241031-WA0081.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "CONTRAST EXCLUSIVE JACQUARD BORDER",
+    "color": "Cream",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/tTHBTp9Z/Whats-App-Image-2024-10-30-at-20-26-15-42adf3fc.jpg",
+      "https://i.postimg.cc/155sXZzj/Whats-App-Image-2024-10-30-at-20-26-16-9e6b99f5.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Cream",
+    "color": "Cream",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/hty82mxeac0i0dtnbdk5a/Cream-0.jpg?rlkey=a4zidnlggn3fkvfkori9vgowo&st=t2pqnb4f&dl=1",
+      "https://www.dropbox.com/scl/fi/44v7wlutj6hzcz8zl5cpx/Cream-1.jpg?rlkey=kp4dwz5kd9x0ufr9kn5n30ng9&st=ruana2j7&dl=1",
+      "https://www.dropbox.com/scl/fi/72dj08bvn48zinuujtu2z/Cream-2.jpg?rlkey=sgb2gjk9y5lrdz0c9c5ilsvza&st=gwm5hukg&dl=1",
+      "https://www.dropbox.com/scl/fi/8abfh2qoq0k2bp19wptxf/Cream-01-4.jpg?rlkey=fqjbjdbwq8khjibdhn9fz76j4&st=ojs1uew8&dl=1"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Firoi",
+    "color": "Firoi",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/9360fcf3krhbekz7u2vrw/Firoji-1.jpg?rlkey=rrwro3uloggijohhmz8vwxj5x&st=l4a2ojj3&dl=1",
+      "https://www.dropbox.com/scl/fi/scte6923b5gj2a8xahyy8/Firoji-2.jpg?rlkey=qk58396hmri0u4k3ekmktxhr6&st=j29jmlue&dl=1",
+      "https://www.dropbox.com/scl/fi/nftmh8mfidk2xnutxvj4l/Firoji-3.jpg?rlkey=1j5daafwqw9hb3zk77na0litu&st=pn1amaud&dl=1",
+      "https://www.dropbox.com/scl/fi/h48n89xas5wt7023whasl/Firoji-4.jpg?rlkey=prozjir3664iab7roius7hn0b&st=k9b2vq9s&dl=1"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Mahendi",
+    "color": "Mahendi",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/9h3vtzev3cmwdq5u6398l/Mahendi-1.jpg?rlkey=uriu1wjeifoputdd6w4462nwj&st=gmtbxd1o&dl=1",
+      "https://www.dropbox.com/scl/fi/qocfwfkoxaummsw1cvpvw/Mahendi-2.jpg?rlkey=vvojt8oqtokrtalna9z56mo3i&st=fb8jccmd&dl=1",
+      "https://www.dropbox.com/scl/fi/errol63kq5qt5qmbbvdtt/Mahendi-3.jpg?rlkey=do7ucf0o3jlzqesuwdy4vi42n&st=dwn4jt70&dl=1",
+      "https://www.dropbox.com/scl/fi/vb2xjqwnzgthyk28r5k57/Mahendi-4.jpg?rlkey=j7lfcc4h2k5n0zz737nnpgy5m&st=xrjfdvdf&dl=1"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Maroon",
+    "color": "Maroon",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/dkggqbj0fa406smakmkex/Maroon-1.jpg?rlkey=fhxo2klq12xhoj0e0ndkqnl5q&st=ng6bwf7a&dl=1",
+      "https://www.dropbox.com/scl/fi/lbd6v2ccsdyj2tcw56swn/Maroon-2.jpg?rlkey=d6b50bwos9v9iliubu6kp0l6r&st=3jkqfmm4&dl=1",
+      "https://www.dropbox.com/scl/fi/uy476pb3fm0xekla7mppl/Maroon-3.jpg?rlkey=s7qdeyessqyn8ssc291fq5tgc&st=p3hwbj1s&dl=1",
+      "https://www.dropbox.com/scl/fi/0yf97l1hb9u7vejord9bm/Maroon-4.jpg?rlkey=2v4qnrcvc4vj7m7t19y4ytn5r&st=naw8u41i&dl=1"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "N.Blue Copper",
+    "color": "N.Blue Copper",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/sl11eigi2pf8hb9udzbk6/N.Blue-Copper-0.jpg?rlkey=kzc1ubv7gidf42ora1401zwxv&st=whkol1o1&dl=1",
+      "https://www.dropbox.com/scl/fi/eexwgf8uszfomu6twfydq/N.Blue-Copper-1.jpg?rlkey=4gni95jtzu1jga9ksoa5rldi3&st=9xkgq5se&dl=1",
+      "https://www.dropbox.com/scl/fi/do708luuzk33grk3a4pmi/N.Blue-Copper-2.jpg?rlkey=swvilbt9nqyf8sakixbnwaeq8&st=qhrg1ncx&dl=1"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Navy Blue",
+    "color": "Navy Blue",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/egwy8k46k00oubcsrmboz/Navy-Blue-1.jpg?rlkey=lpgmqwfpbn7qf9nnrmc9g8im8&st=osiqbd6h&dl=1",
+      "https://www.dropbox.com/scl/fi/kot50fdtq3y3xbcdng493/Navy-Blue-2.jpg?rlkey=kpdvf99ggv22wo31xc5xk3lzo&st=mfr5hkfj&dl=1",
+      "https://www.dropbox.com/scl/fi/oewsu4aao85zcgm2f5nof/Navy-Blue-4.jpg?rlkey=elk5y380s2jj6re53sy3v7hks&st=e9gzerru&dl=1",
+      "https://www.dropbox.com/scl/fi/kaz2nphd3i9ytkp8qvroa/Navy-Blue-5.jpg?rlkey=svue1mpbw7sg875w5q9m41x94&st=1w59tqt7&dl=1"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Navy Copper",
+    "color": "Navy Copper",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/uzyjxayddeg3cus843jj6/Navy-Copper-1.jpg?rlkey=9onz1xcczdcwlpj2k8ebkhtjg&st=k1k62hrh&dl=1",
+      "https://www.dropbox.com/scl/fi/9u7fp90icruvxt6hznonw/Navy-Copper-2.jpg?rlkey=zjqvt3hdktq1pqxxi961j4stn&st=mdso2xax&dl=1",
+      "https://www.dropbox.com/scl/fi/cr50djvnhlgfifqog7643/Navy-Copper-3.jpg?rlkey=dhc1yaz33eqcnkkwaemyxrnv8&st=u0c5xb16&dl=1",
+      "https://www.dropbox.com/scl/fi/bwvk3n3k55o98jcitw8w7/Navy-Copper-4.jpg?rlkey=0t08cgvvsov3w61eoeatufqo6&st=s99d9uzq&dl=1"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "P Green Copper",
+    "color": "P Green Copper",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/p8gekf2t0i5w6g658qz06/P-Green-Copper-2.jpg?rlkey=nd955gpj0a2lznm9wp4623nj7&st=oi6p98nw&dl=1",
+      "https://www.dropbox.com/scl/fi/p5upy08fu4m4lijvtr13j/P-Green-Copper-3.jpg?rlkey=f0blsak7w5akk4uzdw1gtixv2&st=tug07k0i&dl=1",
+      "https://www.dropbox.com/scl/fi/zgl13qerf8t86e1nolvim/P-Green-Copper-4.jpg?rlkey=bfe15nml27lv360y9sgxkd08q&st=2xhax7v3&dl=1",
+      "https://www.dropbox.com/scl/fi/izryq9soze7cw6l82ztcu/P-Green-Copper-5.jpg?rlkey=klldoddkud3u4nh9ehxwuxp7p&st=hz6xbybx&dl=1"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Peach",
+    "color": "Peach",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/ea8jdmmgpv5bz693uj8wd/Peach-0.jpg?rlkey=tp81flt27lhqot8kobaegbpqu&st=ztg5giyc&dl=1",
+      "https://www.dropbox.com/scl/fi/aya73dx4mbpofq3h7gsgf/Peach-2.jpg?rlkey=19xbk50wgjqj1wpgdqjl0p0qy&st=a416zmnd&dl=1",
+      "https://www.dropbox.com/scl/fi/pi9ybt7kdnlrbrrr52ucj/Peach-4.jpg?rlkey=pvviacogq2h1ze7fyax5gb7o2&st=psczvqly&dl=1",
+      "https://www.dropbox.com/scl/fi/yb8ufledki89asqwzh7w2/Peach-5.jpg?rlkey=mdalpljuaesf1xx24qk0l8e5m&st=6vvvj3zg&dl=1"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Purple Sliver",
+    "color": "Purple Sliver",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/1yufg1nr2thkowoan7p42/Purple-1-Silver-1.jpg?rlkey=9jcibxb3i4pvt77bkbyonxea1&st=ud0wy7ln&dl=1",
+      "https://www.dropbox.com/scl/fi/zm27v72fagpu49eznfl4m/Purple-1-Silver-2.jpg?rlkey=hl98mn4mo0qdg15zn58uurq74&st=qrd792qn&dl=1",
+      "https://www.dropbox.com/scl/fi/moct5fjsvnfkyvyar0j3u/Purple-1-Silver-3.jpg?rlkey=hcntkllckfvi4pt8o21d0q1p7&st=v8shp95t&dl=1",
+      "https://www.dropbox.com/scl/fi/qcebooyfnuq1y03r05319/Purple-1-Silver-4.jpg?rlkey=d4mk9own8phyojo1jfujb1fbj&st=x1e90vyh&dl=1"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Purple Copper",
+    "color": "Purple Copper",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/drz252475uds13awk6q2i/Purple-Copper-1.jpg?rlkey=4xm5htveq2qngjxa5t1uajzp8&st=kr4bsem3&dl=1",
+      "https://www.dropbox.com/scl/fi/kfj6xoqtlh1ikkwdj2blq/Purple-Copper-2.jpg?rlkey=fymqe16b72syoqtegwrvz67v9&st=2qixdywu&dl=1",
+      "https://www.dropbox.com/scl/fi/6w2kvy68pzqwxc1hczvwu/Purple-Copper-3.jpg?rlkey=nt85jqd1r4n50ve4r66cs10ea&st=77o81yu1&dl=1",
+      "https://www.dropbox.com/scl/fi/z802q2osl6p9sewxo92lz/Purple-Copper-4.jpg?rlkey=mdcph6sgky8x42kmdkmhwci34&st=teqdzfqc&dl=1"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Purple Sliver",
+    "color": "Purple Silver",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/tm3qmnkhcnf6pjrhywbqx/Purple-Silver-3.jpg?rlkey=npcb2h8rzwlr9m2qd18iviwc0&st=5u1rprmj&dl=1",
+      "https://www.dropbox.com/scl/fi/7pt5k1am0xas2cos6xeky/Purple-Silver-1.jpg?rlkey=ktkedwywgl7n41uhgww2pcjb5&st=2i52tm8r&dl=1",
+      "https://www.dropbox.com/scl/fi/0mfgh6ydutd9rmcntk8bq/Purple-Silver-2.jpg?rlkey=nap501pj9my96munqi9ek8mb7&st=t1j9mk3c&dl=1",
+      "https://www.dropbox.com/scl/fi/w4bkllykou0izjwanhehk/Purple-Silver-4.jpg?rlkey=tbo80c3mq6yrkh8ggm5xqnrz5&st=832tjvic&dl=1",
+      "https://www.dropbox.com/scl/fi/5k010v0q8tqvlwabxl1c6/Purple-Silver-5.jpg?rlkey=p78eritqdmxd46845vkrir5ke&st=f9ye85p7&dl=1"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "R Blue",
+    "color": "R Blue",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/eb2sc0l6mvqj9gp31cduh/R-Blue-1.jpg?rlkey=wx3rmjsfr2l0njyop0vtsl55s&st=t7wk6aed&dl=1",
+      "https://www.dropbox.com/scl/fi/aov27mv4hifx0plfe1838/R-Blue-2.jpg?rlkey=cp3o23ljxjtgdu0eq5q3a603t&st=qwjbl8nu&dl=1",
+      "https://www.dropbox.com/scl/fi/rd28dbnicxwy9m9jjqmnv/R-Blue-3.jpg?rlkey=bi0116mj4qjskky62twytu618&st=bqy2pl5m&dl=1"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "R Blue Copper",
+    "color": "R Blue Copper",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/layxnjj7j688weyfffbmk/R-Blue-Copper-1.jpg?rlkey=vpe3ln5dpykagcoz5drmud6wd&st=c12usubu&dl=1",
+      "https://www.dropbox.com/scl/fi/z60x4mim7nozvd8e8u497/R-Blue-Copper-2.jpg?rlkey=9spsvveiksk8eqf3wahyu07me&st=1zlhiuh4&dl=1"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "R Blue Copper",
+    "color": "R Blue Copper",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/ca782m9w3h313mp8nzh25/R-Blue-Copper-3.jpg?rlkey=6muo8ya0pxpk22wvmcwbsjhgl&st=78a7v1sk&dl=1",
+      "https://www.dropbox.com/scl/fi/suz90syfwhb20u5h26w6k/R-Blue-Copper-4.jpg?rlkey=181vo02v21od5r0wmpaczjgnv&st=z1p4y9z4&dl=1",
+      "https://www.dropbox.com/scl/fi/b7wjl7x41yrduz4384vy1/R-Blue-Copper-5.jpg?rlkey=yejlhdlhlc030uqqrw4hg376d&st=zy3ybvin&dl=1",
+      "https://www.dropbox.com/scl/fi/czj96ato0th2lkz9pmtmv/R-Blue-Copper-6.jpg?rlkey=tg608hwb42yz2wy8bgbieb0yi&st=bk2jggxr&dl=1"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Red",
+    "color": "Red",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/ryivdd16r8bl3hoco7jzp/Red-1.jpg?rlkey=11s5qk92ihbn11yzuflr6an1p&st=ynriw756&dl=1",
+      "https://www.dropbox.com/scl/fi/vfpp6f1umuv5lvqpmkw2r/Red-2.jpg?rlkey=nz1v3v51wxmuqq0mrbsyvmd0c&st=xtv5mdvg&dl=1",
+      "https://www.dropbox.com/scl/fi/j9bf3moo0ydv67k3a7vwe/Red-3.jpg?rlkey=55rh91mab3571kv46aeag7mbz&st=l3iyqhzz&dl=1",
+      "https://www.dropbox.com/scl/fi/lk02gub2h7j1lp3qpezf3/Red-4.jpg?rlkey=5wnuydh738duj3aszm09wrjmc&st=o0z3ukk6&dl=1"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Red Gold",
+    "color": "Red Gold",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/a62zkwleb2uxuqaf26rh7/Red-Gold-01-1.jpg?rlkey=9wswg21jnxzayxy5o7sjihfuq&st=74qydf4c&dl=1",
+      "https://www.dropbox.com/scl/fi/2cu6wqc0trsmv52cya4zi/Red-Gold-01-2.jpg?rlkey=ntv34bz2ow3hhtandw9lj3yal&st=dxkqm1qd&dl=1",
+      "https://www.dropbox.com/scl/fi/1kfwwq4h5in5qnb5mlz36/Red-Gold-01-3.jpg?rlkey=4d82zba4h603mdq89rsqmvlcy&st=y8d6z44y&dl=1",
+      "https://www.dropbox.com/scl/fi/p1vqzj3fspeg1id7in09v/Red-Gold-01-4.jpg?rlkey=awo6uuglclijliydme13oz75q&st=6bqhbg8q&dl=1"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Royal Blue",
+    "color": "Royal Blue",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/pop64yxhjaw3ok988h9co/Royal-Blue-1.jpg?rlkey=u96srp813g4ly6imfqc4fpfab&st=fmz7cosw&dl=1",
+      "https://www.dropbox.com/scl/fi/61438to1bpgp07cq3lckm/Royal-Blue-2.jpg?rlkey=aud9p89hqphxqrpdjxl409b2e&st=e84c84zv&dl=1",
+      "https://www.dropbox.com/scl/fi/chx65xrnwk8b2l9zs1v91/Royal-Blue-3.jpg?rlkey=hj9gv5mucdtki5bz0gpikn4md&st=yjh8p76y&dl=1"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Sea Green",
+    "color": "Sea Green",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/kn8gnzb2c1f0yxc4m7xbe/Sea-Green-4.jpg?rlkey=fim1dopoyfx98enf40rtzvpa8&st=ki8hm4ke&dl=1",
+      "https://www.dropbox.com/scl/fi/lbbst8ztufv1oz5ct6jjq/Sea-Green-1.jpg?rlkey=uoau9nnaxt5e593dstza9e9b8&st=sb6pqrdm&dl=1",
+      "https://www.dropbox.com/scl/fi/76i8zfhry4xdeyx3lgt43/Sea-Green-2.jpg?rlkey=wapwkz7pxbk8x7xrp0zj8jumm&st=bdbn17ad&dl=1",
+      "https://www.dropbox.com/scl/fi/l7mrmh5aduxdevp6v23hd/Sea-Green-3.jpg?rlkey=hb3amrsi18j1ahoqxtf57r0v3&st=4psz87ri&dl=1"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Violet",
+    "color": "Violet",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/5uyoj6481h3q7qyt0h82n/Violet-1.jpg?rlkey=ujk4xwi3cb4p044a5xl4ou1ob&st=m1s052ch&dl=1",
+      "https://www.dropbox.com/scl/fi/emjxu3zilw2vn6h0v8i8v/Violet-2.jpg?rlkey=6ljamq4ok9e3anbvdmz3hmzc0&st=3vdwfnvz&dl=1"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Copper Jal Butto",
+    "color": "Peacock",
+    "price": 699,
+    "img": [
+      "https://www.dropbox.com/scl/fi/yegm89trbwxg9xbh5hxjq/photo_2024-02-15_11-53-55.jpg?rlkey=6xrg3d0ir87lhee43u0p6xcqc&st=x03hqljr&dl=1",
+      "https://www.dropbox.com/scl/fi/ikk6pnngtdq8lsj3sg2ho/photo_2024-02-15_11-53-56-2.jpg?rlkey=14d2aqj0d7pfqse0t3tfgofbc&st=0l5u9745&dl=1",
+      "https://www.dropbox.com/scl/fi/01psbdofdqigda664ivyd/photo_2024-02-15_11-53-56.jpg?rlkey=pmhffo5cxr29ouc5wq8q3thze&st=h5o4a624&dl=1",
+      "https://www.dropbox.com/scl/fi/hpqz5mm8nko4dk7v6hca1/photo_2024-02-15_11-53-57-2.jpg?rlkey=tkpx1r3tjzu4wfj17a3h3sgqa&st=j9vwukt1&dl=1",
+      "https://www.dropbox.com/scl/fi/0u59lfenqsuwmnqf1kovz/photo_2024-02-15_11-53-57.jpg?rlkey=jwoma5poqc2y9qjshfzsrehgi&st=sg7qh838&dl=1"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Mahendi Butto Gold",
+    "color": "Gold",
+    "price": 799,
+    "img": [
+      "https://www.dropbox.com/scl/fi/19ujfrf1a9c6luwl640we/Gold-1.jpg?rlkey=krvrlv59lkk5t8i7ee93kioak&st=trf63er0&dl=1",
+      "https://www.dropbox.com/scl/fi/ubcccwqmln5tm8rbvs937/Gold-2.jpg?rlkey=ixalvzxigwvrr066kmdenf6nd&st=fu5gfhj5&dl=1",
+      "https://www.dropbox.com/scl/fi/jnw5qav7mc1j97cy0a4sm/Gold-3.jpg?rlkey=bebpfwx7bn2x9jj474ntk9v34&st=1ks27lwm&dl=1",
+      "https://www.dropbox.com/scl/fi/cgdhqwcfglm07yxhou9m7/Gold-4.jpg?rlkey=fyz4gzco4jv0auen4aucpxwc3&st=rkmf014f&dl=1",
+      "https://www.dropbox.com/scl/fi/uhcyx1rnakihtwz4qwn4i/Gold-5.jpg?rlkey=izpn6u1gcp5ay6efnxp1n8p05&st=peuzkrpu&dl=1"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Mahendi Butto Aqua",
+    "color": "Gold",
+    "price": 799,
+    "img": [
+      "https://www.dropbox.com/scl/fi/ptznpcgll56m3ylzlspax/Mahendi-Butto-Aqua-1.jpg?rlkey=edfxjko89ymeml8bednznpzgx&st=13z849wc&dl=1",
+      "https://www.dropbox.com/scl/fi/z8bh4nbj2kmte83286lbr/Mahendi-Butto-Aqua-2.jpg?rlkey=luhyi06qv2302x2t43cts3dw6&st=g0a9qrhb&dl=1",
+      "https://www.dropbox.com/scl/fi/4y1ydt1ukzwa6srkqkmn7/Mahendi-Butto-Aqua-3.jpg?rlkey=wam8di54kigh6p0deh4v7nran&st=i3gk60is&dl=1",
+      "https://www.dropbox.com/scl/fi/h7zex4f779b77cf61j51i/Mahendi-Butto-Aqua-5.jpg?rlkey=9dazsxqo08jof14yf3t8jhqyg&st=luu2q4wo&dl=1",
+      "https://www.dropbox.com/scl/fi/kjp2rxxd08o3cusfji2e2/Mahendi-Butto-Aqua-4.jpg?rlkey=rspyo6yjia01zfuxz25x0hpde&st=sdxlyhpg&dl=1"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Mahendi Butto Black",
+    "color": "red",
+    "price": 799,
+    "img": [
+      "https://www.dropbox.com/scl/fi/ffa32t0t2c6k6wrazayid/Mahendi-Butto-Black-1.jpg?rlkey=5q33xyzy3v9rmhewntb8w5keh&st=nmtzwbex&dl=1",
+      "https://www.dropbox.com/scl/fi/op4hkuwp3sgailv4mee9r/Mahendi-Butto-Black-9.jpg?rlkey=z4un7k8m16ic9scfrci2voswk&st=hqrzpqnl&dl=1",
+      "https://www.dropbox.com/scl/fi/xlwepegy24shoamypr3qi/Mahendi-Butto-Black-7.jpg?rlkey=ci8s4jjllpx4uzmoejphadykd&st=q45lfipr&dl=1",
+      "https://www.dropbox.com/scl/fi/0ithgglz54hzb7nhqxmso/Mahendi-Butto-Black-4.jpg?rlkey=mym0duykto9jv0ifd38yi0zo8&st=0htmazq6&dl=1",
+      "https://www.dropbox.com/scl/fi/d9e75dogpwewtr60gm44z/Mahendi-Butto-Black-3.jpg?rlkey=vy1yfhk7veay0wviw8y0yefml&st=n9p4zzru&dl=1"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Mahendi Butto Mahendi",
+    "color": "Mahendi",
+    "price": 799,
+    "img": [
+      "https://www.dropbox.com/scl/fi/1v9plaf57ixzv64ipssse/Mahendi-Butto-Mahendi-2.jpg?rlkey=ac9x9fsz1dxsvwn84jbl1tu9c&st=4xakohlr&dl=1",
+      "https://www.dropbox.com/scl/fi/ld16bunyuk7yi85pdam3k/Mahendi-Butto-Mahendi-1.jpg?rlkey=14ieltacmt3qwb3g8j2jxejfc&st=c5o2k4zw&dl=1",
+      "https://www.dropbox.com/scl/fi/pvmsfj3uquz6bo3xze63y/Mahendi-Butto-Mahendi-6.jpg?rlkey=tgahzjcgyjavqgyytlkmonm9f&st=op19o201&dl=1",
+      "https://www.dropbox.com/scl/fi/9yj7z7dzba6wqrmezqvv0/Mahendi-Butto-Mahendi-8.jpg?rlkey=i7uzm26tihiv84zflt39vzbfb&st=cuih06xr&dl=1",
+      "https://www.dropbox.com/scl/fi/pvmsfj3uquz6bo3xze63y/Mahendi-Butto-Mahendi-6.jpg?rlkey=tgahzjcgyjavqgyytlkmonm9f&st=cyju1iyo&dl=1"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Mahendi Butto Red",
+    "color": "Red",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/cH9qDQSQ/IMG-20241026-WA0034.jpg",
+      "https://i.postimg.cc/x16pK9yZ/IMG-20241026-WA0035.jpg",
+      "https://i.postimg.cc/43SJFkZL/IMG-20241026-WA0036.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Mahendi Butto Wine",
+    "color": "Green",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/ZRV48gHH/IMG-20241026-WA0037.jpg",
+      "https://i.postimg.cc/nzybGJ7v/IMG-20241026-WA0038.jpg",
+      "https://i.postimg.cc/zvxQPYHt/IMG-20241026-WA0039.jpg",
+      "https://i.postimg.cc/5yr3C4CV/IMG-20241026-WA0040.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Dhakai Rajwadi",
+    "color": "Black",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/k4T4wDsk/IMG-20241026-WA0041.jpg",
+      "https://i.postimg.cc/mgdB0KCH/IMG-20241026-WA0042.jpg",
+      "https://i.postimg.cc/kXqCD7yS/IMG-20241026-WA0043.jpg",
+      "https://i.postimg.cc/HnPtGYYN/IMG-20241026-WA0044.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "White Patti",
+    "color": "Cream",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/1Xcf6MTr/IMG-20241026-WA0045.jpg",
+      "https://i.postimg.cc/8cCqBzXX/IMG-20241026-WA0046.jpg",
+      "https://i.postimg.cc/vmg79Fv7/IMG-20241026-WA0047.jpg",
+      "https://i.postimg.cc/kXLg40BP/IMG-20241026-WA0048.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Kanjivaram Sky Chokdi",
+    "color": "Sky",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/MHD342NM/IMG-20241026-WA0050.jpg",
+      "https://i.postimg.cc/FRbTdX9W/IMG-20241026-WA0051.jpg",
+      "https://i.postimg.cc/PfPyZ7t5/IMG-20241026-WA0049.jpg",
+      "https://i.postimg.cc/xjMRtzbw/IMG-20241026-WA0052.jpg"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "J Wave Butto",
+    "color": "Navy",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/VLSDnVWF/IMG-20241026-WA0053.jpg",
+      "https://i.postimg.cc/WpZ74kN9/IMG-20241026-WA0054.jpg",
+      "https://i.postimg.cc/7Z44R06j/IMG-20241026-WA0055.jpg",
+      "https://i.postimg.cc/9Qydm5cr/IMG-20241026-WA0056.jpg"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "J Mushroom",
+    "color": "Firoji",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/bvxK4HL4/IMG-20241026-WA0057.jpg",
+      "https://i.postimg.cc/KY5mt2XK/IMG-20241026-WA0058.jpg",
+      "https://i.postimg.cc/HWb1MmQT/IMG-20241026-WA0059.jpg",
+      "https://i.postimg.cc/mkg3TB47/IMG-20241026-WA0060.jpg",
+      "https://i.postimg.cc/j2Y5hhg2/IMG-20241026-WA0063.jpg"
+    ]
+  },
+  {
+    "id": 48,
+    "name": " J Bindi",
+    "color": "Maroon",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/wT0N9S4k/IMG-20241026-WA0064.jpg",
+      "https://i.postimg.cc/FzP0Cq2G/IMG-20241026-WA0065.jpg ",
+      "https://i.postimg.cc/gjf20HRm/IMG-20241026-WA0066.jpg",
+      "https://i.postimg.cc/bYG6496r/IMG-20241026-WA0061.jpg",
+      "https://i.postimg.cc/Rhznsmsc/IMG-20241026-WA0062.jpg"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Rich Peach Red",
+    "color": "Red",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/mDxQqJ8y/IMG-20241026-WA0067.jpg",
+      "https://i.postimg.cc/Kvdvnbzf/IMG-20241026-WA0068.jpg",
+      "https://i.postimg.cc/yNN1K8rV/IMG-20241026-WA0069.jpg",
+      "https://i.postimg.cc/rphSyzVg/IMG-20241026-WA0070.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "J Multi Butto",
+    "color": "Chiku",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/qqxCLt8H/Whats-App-Image-2024-10-26-at-10-17-43-35b84764.jpg",
+      "https://i.postimg.cc/Cxh7w3Ch/IMG-20241026-WA0072.jpg",
+      "https://i.postimg.cc/Cxh7w3Ch/IMG-20241026-WA0072.jpg"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "J Shadow Leheriya",
+    "color": "Sky",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/BbPycd79/IMG-20241026-WA0073.jpg",
+      "https://i.postimg.cc/cCGjhFpv/IMG-20241026-WA0074.jpg",
+      "https://i.postimg.cc/8P0dV7CH/IMG-20241026-WA0075.jpg"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Baluchari Green",
+    "color": "Green",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/qvgTz54r/IMG-20241026-WA0076.jpg",
+      "https://i.postimg.cc/rw4fn19W/IMG-20241026-WA0077.jpg",
+      "https://i.postimg.cc/XvRG25QZ/IMG-20241026-WA0083.jpg"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "J Square Paisley",
+    "color": "Brown",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/rmYhYMKZ/IMG-20241026-WA0078.jpg",
+      "https://i.postimg.cc/qvk5RbVL/IMG-20241026-WA0079.jpg",
+      "https://i.postimg.cc/rpGsJwYc/IMG-20241026-WA0080.jpg"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "J Vel Butto Chiku",
+    "color": "Chiku",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/j2ckQPyN/IMG-20241026-WA0088.jpg",
+      "https://i.postimg.cc/wBWXV2r9/IMG-20241026-WA0081.jpg",
+      "https://i.postimg.cc/zBgygkZt/IMG-20241026-WA0082.jpg",
+      "https://i.postimg.cc/8Pqndp6Z/IMG-20241026-WA0084.jpg"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Mina Butta Jal",
+    "color": "Cream",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/fR7nJtrc/IMG-20241026-WA0085.jpg",
+      "https://i.postimg.cc/0jpRDzN1/IMG-20241026-WA0086.jpg",
+      "https://i.postimg.cc/Qddwx4c3/IMG-20241026-WA0087.jpg",
+      "https://i.postimg.cc/fT255wSG/IMG-20241026-WA0090.jpg"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Mina Butta Jal",
+    "color": "Red",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/g0YJJPN0/IMG-20241026-WA0096.jpg",
+      "https://i.postimg.cc/XYnGZFv3/IMG-20241026-WA0095.jpg",
+      "https://i.postimg.cc/mrzbh27B/IMG-20241026-WA0089.jpg",
+      "https://i.postimg.cc/J4DKTf3t/IMG-20241026-WA0093.jpg",
+      "https://i.postimg.cc/FKMJH6dC/IMG-20241026-WA0091.jpg",
+      "https://i.postimg.cc/Fswv8X26/IMG-20241026-WA0092.jpg"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Mina Butta Jal",
+    "color": "Green",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/x8RRHQL1/IMG-20241026-WA0101.jpg",
+      "https://i.postimg.cc/yN4ZV5SQ/IMG-20241026-WA0099.jpg",
+      "https://i.postimg.cc/CL1YvT43/IMG-20241026-WA0094.jpg",
+      "https://i.postimg.cc/MGdJ09Q6/IMG-20241026-WA0097.jpg"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Mina Butta Jal",
+    "color": "Cream",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/8P54st1d/IMG-20241026-WA0103.jpg",
+      "https://i.postimg.cc/NFTHr9zc/IMG-20241026-WA0100.jpg",
+      "https://i.postimg.cc/vZX69d3c/IMG-20241026-WA0102.jpg",
+      "https://i.postimg.cc/QxhtqyB5/IMG-20241026-WA0098.jpg"
+
+    ]
+  },
+  {
+    "id": 57,
+    "name": "J Fancy Butto",
+    "color": "Brown",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/26dYbC7t/IMG-20241026-WA0106.jpg",
+      "https://i.postimg.cc/j5xgcKrm/IMG-20241026-WA0107.jpg",
+      "https://i.postimg.cc/SNMrWjMj/IMG-20241026-WA0104.jpg",
+      "https://i.postimg.cc/YqYPtd8X/IMG-20241026-WA0108.jpg",
+      "https://i.postimg.cc/fTnHqxZY/IMG-20241026-WA0105.jpg"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Shadow Trend",
+    "color": "Gajri",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/CKsYdFNQ/IMG-20241026-WA0111.jpg",
+      "https://i.postimg.cc/6qDFYScZ/IMG-20241026-WA0109.jpg",
+      "https://i.postimg.cc/kMKr5MgF/IMG-20241026-WA0112.jpg",
+      "https://i.postimg.cc/pdf8Tn3M/IMG-20241026-WA0114.jpg"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Shadow Trend",
+    "color": "Punch Pink",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/cLsPTVGp/IMG-20241026-WA0118.jpg",
+      "https://i.postimg.cc/t4SvkJ56/IMG-20241026-WA0122.jpg",
+      "https://i.postimg.cc/1XsKs1BP/IMG-20241026-WA0168.jpg",
+      "https://i.postimg.cc/B6GTBfdD/IMG-20241026-WA0169.jpg"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Shadow Trend",
+    "color": "Red",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/rFCwDX93/IMG-20241026-WA0123.jpg",
+      "https://i.postimg.cc/W3RBmtNn/IMG-20241026-WA0124.jpg",
+      "https://i.postimg.cc/85tbpn06/IMG-20241026-WA0125.jpg"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Shadow Trend",
+    "color": "Gajri, Red, Punch Pink, Wine",
+    "price": 549,
+    "img": [
+      "https://i.postimg.cc/0yVW2jKQ/IMG-20241026-WA0127.jpg",
+      "https://i.postimg.cc/K8pfhWC3/IMG-20241026-WA0128.jpg",
+      "https://i.postimg.cc/bNN1YTxx/IMG-20241026-WA0131.jpg",
+      "https://i.postimg.cc/bJrjN4vX/IMG-20241026-WA0134.jpg"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Jumka",
+    "color": "Cream",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/13XTFDQ6/IMG-20241026-WA0132.jpg",
+      "https://i.postimg.cc/JnM5NWkg/IMG-20241026-WA0135.jpg",
+      "https://i.postimg.cc/q7X8MZ5G/IMG-20241026-WA0133.jpg",
+      "https://i.postimg.cc/j2J2CDjr/IMG-20241026-WA0139.jpg"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Tissue Jal Preet",
+    "color": "Blue",
+    "price": 499,
+    "img": [
+      "https://i.postimg.cc/0j6nQ0m2/Whats-App-Image-2024-10-26-at-10-18-39-3267765d.jpg",
+      "https://i.postimg.cc/d1fRzZXM/Whats-App-Image-2024-10-26-at-10-18-40-5dd3ff60.jpg",
+      "https://i.postimg.cc/Jh6dzngx/Whats-App-Image-2024-10-26-at-10-18-40-ed9800f1.jpg",
+      "https://i.postimg.cc/MHk5njY7/IMG-20241026-WA0140.jpg"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Tissue Jal Preet",
+    "color": "Pink",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/9FHVh8yM/IMG-20241026-WA0141.jpg",
+      "https://i.postimg.cc/fRxVsS34/IMG-20241026-WA0144.jpg",
+      "https://i.postimg.cc/gcXR5JKp/IMG-20241026-WA0146.jpg",
+      "https://i.postimg.cc/yx4N2VV6/IMG-20241026-WA0142.jpg",
+      "https://i.postimg.cc/FzpQGmzB/IMG-20241026-WA0143.jpg"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Pink Rani",
+    "color": "Pink",
+    "price": 449,
+    "img": [
+      "https://i.postimg.cc/MT4PypyD/IMG-20241026-WA0152.jpg",
+      "https://i.postimg.cc/dVqBZybF/IMG-20241026-WA0148.jpg",
+      "https://i.postimg.cc/zD73XHFK/IMG-20241026-WA0147.jpg"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Star Gold",
+    "color": "Gold",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/zBWtF10Y/IMG-20241026-WA0155.jpg",
+      "https://i.postimg.cc/W3BRsnfT/IMG-20241026-WA0149.jpg",
+      "https://i.postimg.cc/VNhpFgwn/IMG-20241026-WA0150.jpg",
+      "https://i.postimg.cc/gkp54rCS/IMG-20241026-WA0151.jpg"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Green Ethnic",
+    "color": "Green",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/8Cv9tWzY/IMG-20241026-WA0157.jpg",
+      "https://i.postimg.cc/8k43KTTT/IMG-20241026-WA0158.jpg",
+      "https://i.postimg.cc/bJH0vYmr/IMG-20241026-WA0153.jpg",
+      "https://i.postimg.cc/HL177Dcy/IMG-20241026-WA0156.jpg",
+      "https://i.postimg.cc/hjLFPxFm/IMG-20241026-WA0154.jpg"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Contrast BRCD Pyramid",
+    "color": "Cream",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/QtxgHGwq/IMG-20241026-WA0161.jpg",
+      "https://i.postimg.cc/3x82LHJQ/IMG-20241026-WA0162.jpg",
+      "https://i.postimg.cc/3xqWgMkB/IMG-20241026-WA0163.jpg",
+      "https://i.postimg.cc/rmjkNWhk/IMG-20241026-WA0159.jpg"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Contrast BRCD Pyramid",
+    "color": "Firoji",
+    "price": 399,
+    "img": [
+      "https://i.postimg.cc/x1vFmQpr/IMG-20241026-WA0164.jpg",
+      "https://i.postimg.cc/sXvk78Zp/IMG-20241026-WA0160.jpg",
+      "https://i.postimg.cc/JzYKZh32/IMG-20241026-WA0165.jpg",
+      "https://i.postimg.cc/wv8XQR10/IMG-20241026-WA0166.jpg"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Contrast BRCD Pyramid",
+    "color": "Sea",
+    "price": 439,
+    "img": [
+      "https://www.dropbox.com/scl/fi/hug7z7hrb965p6w60147l/Cream-01-1.jpg?rlkey=zbp67nch8qv40te7cr4avhoa4&st=qtozyd05&dl=1",
+      "https://www.dropbox.com/scl/fi/18pyxunaacszgnpvwowqa/Cream-01-2.jpg?rlkey=g92gm86o1bub0u1wftmvwuq8z&st=qbje8e7m&dl=1",
+      "https://www.dropbox.com/scl/fi/7psmwj0ftalaytdkft4wr/Cream-01-3.jpg?rlkey=erqp2ad72612h7fd1xs8xzy1p&st=kvk657pf&dl=1",
+      "https://www.dropbox.com/scl/fi/63prno7dll5576mzxuuzg/Cream-01-5.jpg?rlkey=pg6qe0qp08gjkqsdl23lsdieg&st=ifsej29g&dl=1"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Contrast BRCD Pyramid",
+    "color": "Gold",
+    "price": 439,
+    "img": [
+      "https://www.dropbox.com/scl/fi/7ybty4jt3ea038vyi0v93/Gold-1.jpg?rlkey=uhqmh4tis649q2gzsgcnqxmpm&st=4qoenk5s&dl=1",
+      "https://www.dropbox.com/scl/fi/dmu6vaivd0i35kp9pzzei/Gold-2.jpg?rlkey=kj8ayrzgtas2g5vj43tvpwt6v&st=nv1gydi6&dl=1",
+      "https://www.dropbox.com/scl/fi/n70vvdwf8jswvw0umfyzm/Gold-4.jpg?rlkey=cwzpfgjnqsuue24bfvyiap07c&st=a97h9q5d&dl=1",
+      "https://www.dropbox.com/scl/fi/j0df5a559ln0rlx6rja5h/Gold-6.jpg?rlkey=lzz1s3q18s88ncrbflxgi65gq&st=uq7hrcxz&dl=1"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Contrast BRCD Pyramid",
+    "color": "Green",
+    "price": 439,
+    "img": [
+      "https://www.dropbox.com/scl/fi/xpwjymm4bmhd735u4atco/Sea-Green-1.jpg?rlkey=6lo7cjbrlfn8gnmgsndmjj062&st=pvcz8h8d&dl=1",
+      "https://www.dropbox.com/scl/fi/bdik59vg2vv6j1kfgx44w/Sea-Green-2.jpg?rlkey=09ou92j65si5tlwu1hmyasr1s&st=xrgc9qth&dl=1",
+      "https://www.dropbox.com/scl/fi/oxmkve3jdi6d1fjbwcga3/Sea-Green-3.jpg?rlkey=8wrxm5ipcq9uiycrdoc9z49zd&st=oh0lro7n&dl=1"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Contrast BRCD Pyramid",
+    "color": "SeaGreen",
+    "price": 439,
+    "img": [
+      "https://www.dropbox.com/scl/fi/eygt3umk94vfnqd85q765/SeaGreen-1.jpg?rlkey=2u44krgq1p6pclyi7qcj9yqe3&st=k23ca5au&dl=1",
+      "https://www.dropbox.com/scl/fi/erxxj006jsnb8geaoh50j/SeaGreen-2.jpg?rlkey=xu1f8gx0ama1gvuhygoaolfn0&st=y2sovf27&dl=1",
+      "https://www.dropbox.com/scl/fi/augd95d0t1x2hbs507uhk/SeaGreen-3.jpg?rlkey=23folws1dyumzykiohw3j6ap2&st=k808kwaw&dl=1",
+      "https://www.dropbox.com/scl/fi/onbrt8wrhrny9iijio7r3/SeaGreen-4.jpg?rlkey=g3auf0vag7wobiswg3j4ekg39&st=5z0ml3fn&dl=1"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Chakra Flower",
+    "color": "SeaGreen",
+    "price": 439,
+    "img": [
+      "https://www.dropbox.com/scl/fi/moeb7rviryfn96dyq6kg0/Chakra-Flower-Sea-Green-4.jpeg?rlkey=vtgy0zjc5fgljrylwcoj8s4nr&st=ff9gxf69&dl=1",
+      "https://www.dropbox.com/scl/fi/nkf4zjegvnkjqf85gg93j/Chakra-Flower-Sea-Green-2.jpeg?rlkey=btoitj49u7jw97vds0i73mw67&st=ci5j4zlf&dl=1",
+      "https://www.dropbox.com/scl/fi/e0s43r80g19ojzp6co2nr/Chakra-Flower-Sea-Green-3.jpeg?rlkey=8k6xws48vr2l6ds2mtrht7ahn&st=7lzesq05&dl=1",
+      "https://www.dropbox.com/scl/fi/g64ku7mlkejmacixjtjqu/Chakra-Flower-Sea-Green-1.jpeg?rlkey=owoxr86x5i6n3rjq99h82vpui&st=vaox905l&dl=1"
+    ]
+  }
+]

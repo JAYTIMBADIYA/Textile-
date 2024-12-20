@@ -1,0 +1,10 @@
+.zoom-image {
+    transition: transform 0.8s ease; /* Smooth transition for the zoom effect */
+  }
+  
+.zoom-image:hover {
+    transform: scale(1.1); /* Scale the image to 110% on hover */
+}
+.fonf{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
